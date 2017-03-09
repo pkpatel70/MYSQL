@@ -1,0 +1,1 @@
+CREATE TABLE COUNTRY(SNo int(04),ContryID int(04),CountryName char(30));

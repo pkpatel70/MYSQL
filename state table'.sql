@@ -1,0 +1,1 @@
+CREATE TABLE STATE(SNo int(04),CountryID int(04),StateID int(04),StateName char(30));
